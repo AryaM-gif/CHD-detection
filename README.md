@@ -89,13 +89,13 @@ F1-Score: 0.53 (CHD)
 ## 📁 Project Structure
 
 chd-ecg-detection/
-├── models/ # ResNet & LSTM architectures
-├── data/ # Data loaders or preprocessing scripts
-├── notebooks/ # Training, testing, and visualization notebooks
-├── results/ # Metrics, classification reports, plots
-├── utils/ # Helper functions and tools
-├── README.md
-└── requirements.txt # Dependencies list
+  models/ # ResNet & LSTM architectures
+  data/ # Data loaders or preprocessing scripts
+  notebooks/ # Training, testing, and visualization notebooks
+  results/ # Metrics, classification reports, plots
+  utils/ # Helper functions and tools
+  README.md
+  requirements.txt # Dependencies list
 
 ## 🚀 How to Run
 
